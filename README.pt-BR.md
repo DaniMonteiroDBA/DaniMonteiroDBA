@@ -2,11 +2,18 @@
 
 **Engenharia de dados e IA · Sistemas confiáveis · Pesquisa e educação**
 
-[English](README.md) · [Site](https://danimonteiro.tech) · [Trajetória profissional](https://danimonteiro.tech/sobre/)
+[English](README.md) · [LinkedIn](https://www.linkedin.com/in/danimonteirodba/) · [Instagram](https://www.instagram.com/danimonteirodba/)
 
 Sou engenheira de dados e IA, pesquisadora, professora e palestrante. Sou doutoranda na POLI-USP, Google Developer Expert e fundadora da IA Preta.
 
 Meu trabalho conecta arquitetura de dados à engenharia de sistemas confiáveis: como coordenam ações, preservam estado e se recuperam de falhas. Aqui compartilho demonstrações técnicas, artefatos de projeto e materiais de aprendizagem.
+
+## Meus sites
+
+| Site | O que encontrar |
+| --- | --- |
+| [danimonteiro.tech](https://danimonteiro.tech/) | Meu portfólio profissional: trajetória, pesquisa, palestras, consultoria e contato. |
+| [danimonteiro.pro](https://danimonteiro.pro/) | Minha plataforma de ensino: aulas, materiais, atividades e acompanhamento dos alunos. As áreas acadêmicas exigem login. |
 
 ## Trabalhos selecionados
 

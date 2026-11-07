@@ -2,11 +2,18 @@
 
 **Data & AI engineering · Trustworthy systems · Research & education**
 
-[Português](README.pt-BR.md) · [Website](https://danimonteiro.tech) · [Professional background](https://danimonteiro.tech/sobre/)
+[Português](README.pt-BR.md) · [LinkedIn](https://www.linkedin.com/in/danimonteirodba/) · [Instagram](https://www.instagram.com/danimonteirodba/)
 
 I'm a data and AI engineer, researcher, educator and speaker. I'm a doctoral student at POLI-USP, a Google Developer Expert and founder of IA Preta.
 
 My work connects data architecture with the engineering of trustworthy systems: how they coordinate actions, preserve state and recover from failures. Here I share technical demonstrations, design artifacts and learning resources.
+
+## Websites
+
+| Website | Explore |
+| --- | --- |
+| [danimonteiro.tech](https://danimonteiro.tech/) | My professional portfolio: background, research, speaking, consulting and contact. |
+| [danimonteiro.pro](https://danimonteiro.pro/) | My teaching platform: classes, learning materials, activities and student progress. Academic areas require sign-in. |
 
 ## Selected work
 
